@@ -1,0 +1,13 @@
+[paths]
+source =
+    ../pullframe
+
+[run]
+branch = true
+parallel = true
+source =
+    pullframe
+
+[report]
+show_missing = true
+precision = 2

@@ -1,0 +1,13 @@
+bump2version
+tox
+pytest
+pytest-xdist
+pytest-cov
+pytest-asyncio
+mypy
+pyflakes
+black
+codecov
+coverage
+isort[pyproject]
+dockontext
